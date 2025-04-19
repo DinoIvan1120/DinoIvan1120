@@ -1,8 +1,8 @@
-👋 Hi, I’m @DinoIvan1120, a passionate Software Engineer!
+👋 ¡Hola, soy @DinoIvan1120, un apasionado Ingeniero de Software!
 
-- 👀 I’m interested in software development, system architecture, and emerging technologies.
-- 🌱 I’m currently learning Full Stack development, with a focus on cloud computing and modern frameworks.
-- 💞️ I’m looking to collaborate on open-source projects, tech innovations, and anything that challenges my skills.
-- 📫 You can reach me via [email](dinoivan11201994@gmail.com) or connect with me on LinkedIn.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I once won a hackathon at the Latin American and Caribbean level!
+- 👀 Me interesa el desarrollo de software, la arquitectura de sistemas y las tecnologías emergentes.
+- 🌱 Actualmente soy desarrollo Full Stack, estableciendo buenas prácticas de desarrollo
+- 💞️ Busco colaborar en proyectos de código abierto, innovaciones tecnológicas y en todo lo que desafíe mis habilidades.
+- 📫 Puedes contactarme por [email](dinoivan11201994@gmail.com) o conectarme en LinkedIn.
+- 😄 Pronombres: Él
+- ⚡ Curiosidad: ¡Una vez gané un hackatón a nivel de Latinoamérica y el Caribe!
