@@ -5,4 +5,4 @@
 - 💞️ Busco colaborar en proyectos de código abierto, innovaciones tecnológicas y en todo lo que desafíe mis habilidades.
 - 📫 Puedes contactarme por [email](dinoivan11201994@gmail.com) o conectarme en LinkedIn.
 - 😄 Pronombres: Él
-- ⚡ Curiosidad: ¡Una vez gané un hackatón a nivel de Latinoamérica y el Caribe!
+- ⚡ Gané un hackatón a nivel de Latinoamérica y el Caribe!
